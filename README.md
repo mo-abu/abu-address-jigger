@@ -1,4 +1,5 @@
-# Address Jigger by [abu](https://discord.com/users/769155775163138048) (chatgpt)
+# Address Jigger PERFECT FOR PKC 
+by [abu](https://discord.com/users/769155775163138048) (chatgpt)
 
 Address Jigger is a desktop application for generating realistic address variants from CSV files.
 
